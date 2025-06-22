@@ -14,6 +14,4 @@ A fully working version of the React-Django project utilizing given starter code
 - Youtube Data API
 
 ### Note
-
-Be sure to create a .env file in the `frontend` folder with your current API key after the following line:
-REACT_APP_YT_API_KEY=<your Google YouTube Data API key here>
+visit youtubecloneapp.wisecarver.site
