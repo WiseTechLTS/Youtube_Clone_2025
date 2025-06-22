@@ -1,0 +1,11 @@
+.commentForm {
+  font-size: 1.25rem;
+}
+
+.commentForm input {
+  padding: 0.5rem 1rem;
+}
+
+input {
+  font-size: 25px;
+}
